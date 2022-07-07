@@ -12,7 +12,7 @@ def Space(j):
 
 def findAdmin():
         f = open("link.txt","r");
-        link = raw_input("enter your site \n\n   sakht or yen yang mjaze :  ")
+        link = raw_input("enter your site \n\n   type your site :  ")
         print "\n\nhack is admin panel : \n"
         while True:
                 sub_link = f.readline()
